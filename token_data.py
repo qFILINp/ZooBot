@@ -1,0 +1,3 @@
+TOKEN = "6874826872:AAGOVOyV0y7DMFyFTZg07W8Cm7KFNVuNES8"
+
+name_bot = "Namba2Test_les_bot"
